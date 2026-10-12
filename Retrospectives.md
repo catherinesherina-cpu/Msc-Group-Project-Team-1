@@ -61,7 +61,16 @@ Catherine and Sowmiya agreed to work on developing the frontend interface, allow
 - Attended by Catherine, Santhosh, Viknesh, Sowmiya
 - Connected on a group call and discussed the progress of each task that has been assigned to each team member. 
 - Catherine and Sowmiya started working on the initial frontend planning for the Dublin Area Recommendation System by identifying the required input fields and outlining the structure of the user interface. We also planned how the recommended Dublin districts, match percentages, and explanations would be displayed to users. 
-- Viknesh collected amenity data for Dublin districts D11 to D15, along with rental data for the remaining Dublin districts. He also collecting the relevant census data to support the recommendation system. He shared the collected data with Santhosh and Shreyas.
+- Viknesh collected amenity data for Dublin districts D11 to D15, along with rental data for the remaining Dublin districts. He also collected the relevant census data to support the recommendation system. He shared the collected data with Santhosh and Shreyas.
 - Santhosh developed the recommendation prototype using the additional district data and tested the recommendation logic to evaluate the accuracy and relevance of the results. He will continue improving the prototype by grouping common factors
 - Shreyas updated in the chat that he has created a server on Azure and is also working on building the prototype.
+
+**Meeting 3: Monday (9pm-10pm)**
+- Attended by Catherine, Santhosh, Viknesh, Sowmiya
+- Connected via a group call to discuss the progress of each member’s assigned tasks.
+- Viknesh collected the remaining amenities data for all Dublin districts (D1–D24) 
+- Santhosh is working on updating the recommendation system code by integrating the newly collected amenities data. 
+- Catherine is working on developing the frontend for the district profile page.
+- Sowmiya is working on developing the frontend for the homepage.
+
   
