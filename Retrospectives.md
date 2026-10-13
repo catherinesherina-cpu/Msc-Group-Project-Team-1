@@ -3,7 +3,7 @@
 Catherine, Sowmiya, Santhosh, and Vignesh attended the meeting, Shreyas was unavailable. 
 What we talked?
 - Discussed on the tasks assigned, cleared the confusions each of us had as the tasks assigned were way too ahead.
-- Following the feeedback from our mentors, we decided to collect data.
+- Following the feeedback from our mentors, we decided to collect data. 
 - Santhosh agreed to finalise the tech stack, Catherine volunteered to work on user persona, Vignesh said he started collecting data for d4 and d5. Sowmiya agreed to collect commute data for d6 to d10.
 What next? 
 - Sowmiya will assign new tasks for everybody.
@@ -64,4 +64,11 @@ Catherine and Sowmiya agreed to work on developing the frontend interface, allow
 - Viknesh collected amenity data for Dublin districts D11 to D15, along with rental data for the remaining Dublin districts. He also collecting the relevant census data to support the recommendation system. He shared the collected data with Santhosh and Shreyas.
 - Santhosh developed the recommendation prototype using the additional district data and tested the recommendation logic to evaluate the accuracy and relevance of the results. He will continue improving the prototype by grouping common factors
 - Shreyas updated in the chat that he has created a server on Azure and is also working on building the prototype.
-  
+
+**Meeting 3: Monday(9pm-10pm)**
+- Attended by Catherine, Santhosh, Viknesh, Sowmiya
+- Connected on a group call and discussed the progress of each task that has been assigned to each team member. 
+- Viknesh collected the remaining amenities data for all Dublin districts (D1–D24) .
+- Santhosh is working on building the recommendation system code by integrating the newly collected amenities.
+- Catherine is working on developing the frontend for the district profile page.
+- Sowmiya is working on developing the frontend for the homepage.
